@@ -1,0 +1,22 @@
+nav{
+    background-color:rgb(34, 161, 66);   
+}
+.logoMarca{
+    width: 45px;
+}
+h1{
+    color: #fff;
+}
+.botonera{
+  width: 50%;  
+  display: inline-flex; 
+  justify-content: center;
+}
+.boton-Menu{
+   margin: 5px;
+}
+.tituloMenu{
+    display:inline-flex;
+    align-items: baseline;
+
+}

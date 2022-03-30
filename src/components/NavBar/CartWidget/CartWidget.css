@@ -1,0 +1,10 @@
+.btn-carrito{
+    margin: 5px;
+    opacity: 100%;   
+    border:2px solid black;
+    border-radius: 5px;
+
+}
+.btn-carrito:hover{
+    opacity: 40%;
+}

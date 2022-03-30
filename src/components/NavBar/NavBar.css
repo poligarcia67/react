@@ -1,22 +1,18 @@
-nav{
-    background-color:rgb(34, 161, 66);   
+body {
+    background-color: black;
 }
-.logoMarca{
-    width: 45px;
-}
-h1{
-    color: #fff;
-}
-.botonera{
-  width: 50%;  
-  display: inline-flex; 
-  justify-content: center;
-}
-.boton-Menu{
-   margin: 5px;
-}
-.tituloMenu{
-    display:inline-flex;
-    align-items: baseline;
 
+.logoNav {
+    margin-right: 10px;
+    width: 30px;
+}
+
+.nav-item{
+    text-align: center !important;
+    
+}
+.nav-link:hover{
+background-color: rgba(0, 0, 0, 0.822);
+border-radius: 5px;
+color: #fff !important;
 }

@@ -3,16 +3,14 @@ body {
 }
 
 .logoNav {
-    margin-right: 10px;
     width: 30px;
 }
 
 .nav-item{
     text-align: center !important;
-    
 }
 .nav-link:hover{
-background-color: rgba(0, 0, 0, 0.822);
+background-color: rgba(180, 170, 170, 0.726);
 border-radius: 5px;
-color: #fff !important;
 }
+

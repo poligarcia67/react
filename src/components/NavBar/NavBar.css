@@ -14,3 +14,10 @@ background-color: rgba(180, 170, 170, 0.726);
 border-radius: 5px;
 }
 
+.CartWidget{
+    border-radius: 5px;
+    opacity: 80%;
+}
+.CartWidget:hover{
+    opacity: 100%;
+}

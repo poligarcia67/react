@@ -2,10 +2,10 @@ import './CartWidget.css'
 
 const CartWidget = () => {
     return (
-        <div classname='navbar-text carrit'>
-        <img classname='btn-carrito btn-danger' src='./images/carrito.png' alt='Logo carrito'/>
+    <div className='navbar-text carrit CartWidget'>
+      <img className='btn-carrito' src='./images/carrito.png' alt='Logo carrito'/>
          0
-      </div>
+    </div>
     )
 }
 export default CartWidget

@@ -22,7 +22,7 @@ const NavBar = () =>{
         </li>
       </ul>
     </div>
-    <CartWidget/>
+    <button className='CartWidget'><CartWidget/></button>
   </div>
 </nav>
     )

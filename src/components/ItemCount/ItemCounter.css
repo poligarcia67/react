@@ -1,11 +1,12 @@
 .iCounter{
-    width: 30vh;
+    display: flex;
+  
     justify-content: center;
     text-align: center;
 }
 .itemCount{
-    display: flex;
-   /*justify-content: center;*/
+   
+   justify-content: center;
     margin: 5px;
     color: #FFF;
 }
@@ -26,5 +27,8 @@ border-radius: 5px;
     color: #FFF;
 }
 .itemCount{
-    color: #FFF
+    justify-content: center;
+    width: 5vh;
+    background-color: #FFF;
+    color: black;
 }

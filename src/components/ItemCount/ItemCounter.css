@@ -23,7 +23,7 @@ border-radius: 5px;
 .itemStock{
     color: #FFF;
 }
-.itemInitial{
+.title{
     color: #FFF;
 }
 .itemCount{
@@ -31,4 +31,13 @@ border-radius: 5px;
     width: 5vh;
     background-color: #FFF;
     color: black;
+}
+.card{
+    display: inline-block;
+    justify-items: center;
+    margin: 10px;
+
+}
+.cardGneral{
+  text-align: center;
 }
